@@ -1,2 +1,3 @@
-# Introductio-to-algorithms
-notes n codes for the book
+# Introduction to algorithms
+
+Notes and codes
